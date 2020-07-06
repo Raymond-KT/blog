@@ -3,13 +3,16 @@
     "path": "~/blog/content/post/2015-07-23-r-rmarkdown.Rmd",
     "project_path": "content/post/2015-07-23-r-rmarkdown.Rmd",
     "type": "r_markdown",
-    "hash": "4279641884",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1594032257037.0,
     "source_on_save": false,
     "relative_order": 1,
-    "properties": {},
+    "properties": {
+        "cursorPosition": "7,0",
+        "scrollLine": "0"
+    },
     "folds": "",
     "lastKnownWriteTime": 1594032256,
     "encoding": "UTF-8",
